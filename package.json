@@ -35,15 +35,23 @@
     {
       "name": "Julio",
       "url": "https://github.com/jmgaya"
+    },
+    {
+      "name": "Sanchit",
+      "url": "https://github.com/anchi20"
+    },
+    {
+      "name": "Nikhil",
+      "url": "https://github.com/handasolo"
     }
   ],
   "homepage": "http://www.travistidwell.com/jsencrypt",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travist/jsencrypt.git"
+    "url": "git://github.com/anchi20/jsencrypt.git"
   },
   "bugs": {
-    "url": "http://github.com/travist/jsencrypt/issues"
+    "url": "https://github.com/anchi20/jsencrypt/issues"
   },
   "license": "MIT"
 }
